@@ -4,7 +4,7 @@
 ### CSE Grad | Software Engineer | Full-Stack Developer
 
 🚀 **Full-Stack Developer**  
-⚛️ React | 🟢 Node.js | 🌐 REST APIs  
+⚛️ React.js | PyQt5 | 🌐 Fast APIs  
 ☕ Java | 🐍 Python  | 🤖 AI-curious  
 
 ---
@@ -27,5 +27,5 @@
 ### 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,c,html,css,react,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,django,webstorm,idea,pycharm,postman&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,c,html,css,react,fastapi,pytorch,mediapipe,opencv,numpy,pyqt5,mongodb,mysql,git,github,vscode,django,sqlite,postgresql,postman&perline=8" />
 </p>
